@@ -1,5 +1,5 @@
 
-# This is a small SQL project I built to practice working with real-world style datasets.
+## This is a small SQL project I built to practice working with real-world style datasets.
 The data I used is about COVID cases, deaths, population, and vaccinations.
 The goal was to explore the numbers and try out different SQL techniques like filtering, grouping, joins, CTEs, window functions, and temp tables.
 
